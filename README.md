@@ -1,14 +1,15 @@
 <h1 align='left'> Hi there! 👋</h1>
-<em align='left'>I'm Alvaro.</em>
-<div>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<p><em>Bachelor of Systems Engineering at <a href="https://www.nur.edu">Nur University</a>  </br>
+<em align='left'>I'm Alvaro.</em>
+
+<div>
+<p><em>Bachelor of Systems Engineering at <a href="https://www.nur.edu">Nur University</a></br>
 </div>
 
+<div>
 
-
-- Member of Security Research & CTF team [`@teamBi0s`](https://bi0s.in/)
+- Member of Security Research & CTF team [`@teamServisoftsSRL`](https://servisofts.in/)
 - 🔭 I’m currently working on **Servisofts SRL**
 - 📫 How to reach me **alvarosiles1@gmail.com**
 - Wanna Stalk My Blog? [`Here you go!!`](https://alvarosiles1.github.io/)
