@@ -113,6 +113,12 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=alvarosiles1&area=true&hide_border=true&line=3AFC30&theme=react-dark"/>
 </h3>
 
+<p align="center"> 
+  Visitors count:<br>
+  <meta http-equiv="refresh" content="0.6">
+  <img src="https://profile-counter.glitch.me/alvarosiles1/count.svg" />
+</p>
+
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <div align="center">
 <div align="center">
