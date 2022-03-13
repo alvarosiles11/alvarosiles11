@@ -22,7 +22,7 @@
    </td>
    <td>
      <a href="https://github.com/mortegac">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarosiles1&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarosiles11&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
      </a>
 
    </td>
@@ -110,7 +110,7 @@
 
 
 <h3 align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=alvarosiles1&area=true&hide_border=true&line=3AFC30&theme=react-dark"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=alvarosiles11&area=true&hide_border=true&line=3AFC30&theme=react-dark"/>
 </h3>
 
 <p align="center"> 
