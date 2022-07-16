@@ -2,14 +2,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <em align='left'>I'm Alvaro.</em>
-
-![snake gif](https://github.com/alvarosiles11/alvarosiles11/blob/output/github-contribution-grid-snake.gif)
  
-
-     <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=alvarosiles11&layout=compact&theme=material-palenight](https://raw.githubusercontent.com/alvarosiles11/alvarosiles11/output/github-contribution-grid-snake.svg
-)" />
-
-
 <div>
 <p><em>Bachelor of Systems Engineering at <a href="https://www.nur.edu">Nur University</a></br>
 </div>
@@ -125,6 +118,8 @@
   <meta http-equiv="refresh" content="0.6">
   <img src="https://profile-counter.glitch.me/alvarosiles11/count.svg" />
 </p>
+
+![Image text](https://raw.githubusercontent.com/alvarosiles11/alvarosiles11/output/github-contribution-grid-snake.svg)
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <div align="center">
