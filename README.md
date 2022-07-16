@@ -6,6 +6,10 @@
 ![snake gif](https://github.com/alvarosiles11/alvarosiles11/blob/output/github-contribution-grid-snake.gif)
  
 
+     <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=alvarosiles11&layout=compact&theme=material-palenight](https://raw.githubusercontent.com/alvarosiles11/alvarosiles11/output/github-contribution-grid-snake.svg
+)" />
+
+
 <div>
 <p><em>Bachelor of Systems Engineering at <a href="https://www.nur.edu">Nur University</a></br>
 </div>
