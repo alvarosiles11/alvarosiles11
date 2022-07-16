@@ -3,6 +3,13 @@
 
 <em align='left'>I'm Alvaro.</em>
 
+
+
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/alvarosiles11/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
+
+
+
 <div>
 <p><em>Bachelor of Systems Engineering at <a href="https://www.nur.edu">Nur University</a></br>
 </div>
