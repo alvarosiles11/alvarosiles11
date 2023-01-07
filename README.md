@@ -3,19 +3,10 @@
 
 <em align='left'>I'm Alvaro.</em>
  
-<div>
-<p><em>Bachelor of Systems Engineering at <a href="https://www.nur.edu">Nur University</a></br>
-</div>
-
-<div>
-- Member of Security Research & CTF team [`@teamServisoftsSRL`](https://servisofts.in/)
-- 🔭 I’m currently working on **Servisofts SRL**
-- 📫 How to reach me **alvarosiles1@gmail.com**
-- Wanna Stalk My Blog? [`Here you go!!`](https://alvarosiles11.github.io/)
-</div>
-
  
-
+<p><em>Bachelor of Systems Engineering at <a href="https://www.nur.edu">Nur University</a></br>
+ 
+ 
 
 <h3 align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=alvarosiles11&area=true&hide_border=true&line=3AFC30&theme=react-dark"/>
