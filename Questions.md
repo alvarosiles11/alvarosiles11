@@ -1,0 +1,63 @@
+# software engineering interview questions
+
+- What is the study level you have acquired?
+  - Bachelor's degree (obtuve licenciatura)
+- What is the career/specialty you studied?
+  - System engineering (obtuve licenciatura o grado superior)
+- What is the name of the educational intitution where you studied?
+  - universidad nur
+- Are you currently working in a Company?
+  - Yes, I'm currently working in a Company as a Software Developer.
+  - I'm not currently working in a Company.
+- Do you have experience doing planning and/or estimation of tasks? If yes, describe the approach/methodology you used for it.
+  - Yes, I use scrum for project development
+- What code versioning tools are you familiar with? Please list the ones you have had experienced lately.
+  - git, github and gitlab
+- Explain how your experience was working in a team and how many members and roles where part of that.
+  - A software development team consists of 4 people.
+  <!-- * What was the most important research you have performed in your latest experience and how that impacted your team?
+  List the technologies (programming languages, frameworks, libraries or cloud services) where you consider to have a really good domain of usage and a solid experience.
+  Explain with details your experience in back-end development.
+  Explain with details your experience in front-end development. -->
+- How long have you been coding in the following programming languages?
+  - JavaScript 4 years
+  - TypeScript 4 years
+  - C# 4 years
+  - Java 4 years
+  - Python 1 year
+- What is your knowledge and experience with the following concepts?
+  - UML Advanced
+  - OOP Advanced
+  - Functional Programming Advanced
+  - REST Advanced
+  - Web Application Advanced
+  - SPA Intermediate
+  - Client - Server architecture Advanced
+  - Package management Advanced
+  - Debugging Advanced
+  - Code versioning Advanced
+  - Other Basic
+- What is your knowledge and experience with the following technologies?
+  - HTML Advanced
+  - CSS Advanced
+  - JSON Advanced
+  - SQL Advanced
+  - NPM Advanced
+  - Git Advanced
+  - GitLab || GitHub Advanced
+- Have you ever participated in any dev events (workshops, contest, challenges) where have you been able to play a dev role?
+  - GDG Dev Fest
+  - ACM-ICPC
+  - Space Apps Challenge
+  - Google Code Jam
+  - None
+  - Otro:
+- What software development tools have you used in your latest experience?
+  - react, node , java, postgrsql, ngnex and docker
+- What is your English proficiency?
+  - Writing Intermediate
+  - Listening Intermediate
+  - Speaking Intermediate
+  - Reading Intermediate
+- How would you describe your passion for technology? Please provide your answer in English.
+  - Technology and innovation enthusiast
