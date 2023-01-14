@@ -4,6 +4,9 @@
 <em align='left'>I'm Alvaro.</em>
  
  
+ ![photo_2023-01-14_06-44-05](https://user-images.githubusercontent.com/61075383/212468210-6287a860-9522-4b2c-bc2f-74b80fbc4e5e.jpg)
+
+ 
 <p><em>Bachelor of Systems Engineering at <a href="https://www.nur.edu">Nur University</a>
 
  ### Diseño Dirigido por el Dominio y Arquitectura Limpia
