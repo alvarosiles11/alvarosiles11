@@ -3,14 +3,8 @@
 
 <em align='left'>I'm Alvaro.</em>
  
- 
- ![alvaro](https://user-images.githubusercontent.com/61075383/212468285-4f413cb3-b52e-46d6-82bd-32a96443f847.jpg)
+![alvaro](https://user-images.githubusercontent.com/61075383/212468737-5b32f5e3-bb2d-421e-8854-48f6a124f3dd.jpg)
 
- 
- 
- ![photo_2023-01-14_06-44-05](https://user-images.githubusercontent.com/61075383/212468210-6287a860-9522-4b2c-bc2f-74b80fbc4e5e.jpg)
-
- 
 <p><em>Bachelor of Systems Engineering at <a href="https://www.nur.edu">Nur University</a>
 
  ### Diseño Dirigido por el Dominio y Arquitectura Limpia
