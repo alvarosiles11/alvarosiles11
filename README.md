@@ -18,3 +18,7 @@
 - <a href="https://brave.com/es/"><img height="20" src="https://railway.app/brand/logo-dark.png" /> </a> Railway
 - <a href="https://brave.com/es/"><img height="20" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-512.png" /> </a> AWS
 - <a href="https://brave.com/es/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" /> </a> Microsoft Azure
+
+- <a href="https://brave.com/es/"><img height="20" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" /> </a> linux
+
+![Image text](https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png)
