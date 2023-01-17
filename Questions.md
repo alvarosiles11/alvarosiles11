@@ -1,5 +1,9 @@
 # SOFTWARE ENGINEERING INTERVIEW QUESTIONS
 
+<table>
+<tr>
+<td>
+
 As a **Full Stack software engineer** with 4 years of experience in different areas, currently working at Servisofts SRL.
 **Mobile developer** with experience in Android with Java and Hybrid Platforms like React Native.
 **Full-stack developer** with experience in ASP.NET, PHP, Laravel, Java, React, Angular and Jquery
@@ -7,13 +11,41 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
 - As a Full Stack software engineer with 4 years of experience in different areas.
 - Licenciatura en Ingeniería de Sistemas - Universidad Nur 🎓
 - Diplomado en Arquitectura con Microservicios - Universidad Nur 🥇
+- Technology and innovation enthusiast 🖥️
+</td>
+<td width="200px">
 
-  - alvarosiles1@gmail.com
-  - <a href="https://api.whatsapp.com/send?phone=59169050028&text=Hola,%20Alvaro%20vi%20repositorio%20GitHub%20y%20quiero%20preguntarle…"> +591 69050028</a>
+<table>
+  <tr><td>Ingles</td><td>Level</td></tr>
+  <tr>
+    <td>Writing</td>
+    <td>Intermediate B1</td>
+  </tr>
+  <tr>
+    <td>Listening</td>
+    <td>Intermediate B1</td>
+  </tr>
+  <tr>
+    <td>Speaking</td>
+    <td>Intermediate B1</td>
+  </tr>
+  <tr>
+    <td>Reading</td>
+    <td>Intermediate B1</td>
+  </tr>
+</table>
+
+</td>
+
+ </tr>
+</table>
+
+### 🤝🏻 Connect with Me
+
+- alvarosiles1@gmail.com
+- <a href="https://api.whatsapp.com/send?phone=59169050028&text=Hola,%20Alvaro%20vi%20repositorio%20GitHub%20y%20quiero%20preguntarle…"> +591 69050028</a>
 
 - Bolivia - santa cruz de la sierra
-- How would you describe your passion for technology?
-  - Technology and innovation enthusiast
 
 #
 
@@ -221,12 +253,8 @@ Técnico gestor de bases de datos
 Los firewalls están habilitados
 
 Capacitación a usuarios en aplicaciones
-
 • Internet funciona correctamente
-
 • El software está actualizado
-
-#
 
 - What is your English proficiency?
   <table>
@@ -251,20 +279,5 @@ Capacitación a usuarios en aplicaciones
       <td>Intermediate B1</td>
     </tr>
   </table>
-
-#
-
-#
-
-As a Full Stack software engineer with 4 years of experience in different areas, currently working at Servisofts SRL
-Mobile developer with experience in Android with Java and Hybrid Platforms like React Native
-Full-stack developer with experience in ASP.NET, PHP, Laravel, Java, React, Angular and Jquery
-
-- As a Full Stack software engineer with 4 years of experience in different areas.
-- Licenciatura en Ingeniería de Sistemas - Universidad Nur 🎓
-- Diplomado en Arquitectura con Microservicios - Universidad Nur 🥇
-  - alvarosiles1@gmail.com
-  - 69050028
-  - Bolivia - santa cruz de la sierra
 - How would you describe your passion for technology?
   - Technology and innovation enthusiast
