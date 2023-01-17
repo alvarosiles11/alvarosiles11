@@ -22,3 +22,69 @@
 - <a href="https://brave.com/es/"><img height="20" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" /> </a> linux
 
 ![Image text](https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png)
+
+Modulo Ventas
+
+Modulo Compras
+
+Modulo Cobros
+
+Modulo Pagos
+
+Modulo Kardex
+
+Modulo Inventarios
+
+Modulo de Caja
+
+Modulo de Empresa
+
+Reportes
+
+Modulo de Mesas
+
+Copias de Seguridad
+
+Instaladores Portables con base de datos incluida
+
+Modulo de Licencias y Seguridad
+
+App android para recepción de pedidos
+
+<table border="0">
+ <tr>
+   <td><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
+   <td>
+ 
+   <td><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
+   <td>
+ 
+   <td><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
+   <td>
+ 
+   <td><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
+   <td>
+ 
+   <td><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
+   <td>
+ 
+   <td><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
+   <td>
+ 
+   <td><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
+   <td>
+ 
+   <td><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
+   <td>
+ 
+   <td><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
+   <td>
+ 
+  
+ 
+ </tr>
+</table>
+
+![Nginx_840](https://user-images.githubusercontent.com/61075383/212946448-8a132c38-aa3a-4e3c-b4ea-1269c5a288f4.png)
+
+![ECX-1909_Hero_PostgreSQL_600x400@2x](https://user-images.githubusercontent.com/61075383/212946590-0008e4c6-abd4-4219-b668-a284d71d4c18.png)
