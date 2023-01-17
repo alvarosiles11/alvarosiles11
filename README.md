@@ -121,10 +121,21 @@ Project Link: [https://github.com/Louis3797/awesome-readme-template](https://git
 
 alvarosiles1@gmail.com
 
-<p dir="auto"><a href="https://github.com/alvarosiles11"><img src="https://camo.githubusercontent.com/d1fd2b0179099791c2ed2af5b3cbc6187e0185be664bf71b3bf32f5c434e0679/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f4a6f736565393938382e7376673f7374796c653d736f6369616c" alt="GitHub's followers" data-canonical-src="https://img.shields.io/github/followers/alvarosiles11.svg?style=social" style="max-width: 100%;"></a>
+<p dir="auto"><a href="https://github.com/alvarosiles11"><img src="https://camo.githubusercontent.com/d1fd2b0179099791c2ed2af5b3cbc6187e0185be664bf71b3bf32f5c434e0679/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f4a6f736565393938382e7376673f7374796c653d736f6369616c" alt="GitHub's followers" data-canonical-src="https://img.shields.io/github/followers/alvarosiles11.svg?" style="max-width: 100%;"></a>
+
 <a href="https://github.com/alvarosiles11/alvarosiles11/stargazers"><img src="https://camo.githubusercontent.com/df5d0ac096a50e0448613f071ea25f23dc182b2bee388b3ec559e53121527bad/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f4a6f736565393938382f70726f6a6563742d74656d706c6174652e7376673f7374796c653d736f6369616c" alt="GitHub stars" data-canonical-src="https://img.shields.io/github/stars/alvarosiles11/alvarosiles11.svg?style=social" style="max-width: 100%;"></a>
 <a href="https://github.com/alvarosiles11/alvarosiles11/watchers"><img src="https://camo.githubusercontent.com/9e409e31803f60b036e35c9991c3d562801b34a18e1059e6282962b393b63a38/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f77617463686572732f4a6f736565393938382f70726f6a6563742d74656d706c6174652e7376673f7374796c653d736f6369616c" alt="GitHub watchers" data-canonical-src="https://img.shields.io/github/watchers/alvarosiles11/alvarosiles11.svg?style=social" style="max-width: 100%;"></a>
 
 <a href="https://github.com/alvarosiles11/alvarosiles11/network/members"><img src="https://camo.githubusercontent.com/0032771e3f69bf455bd4f35168a28fa39da86c6700e81f42219cf4345c847cc6/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f4a6f736565393938382f70726f6a6563742d74656d706c6174652e7376673f7374796c653d736f6369616c" alt="GitHub forks" data-canonical-src="https://img.shields.io/github/forks/alvarosiles11/alvarosiles11.svg?style=social" style="max-width: 100%;"></a></p>
 
 <p dir="auto">Enjoy! <g-emoji class="g-emoji" alias="smiley" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f603.png">😃</g-emoji></p>
+
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/alvarosiles11/alvarosiles11?style=social">
+
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/alvarosiles11/alvarosiles11?style=social">
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/alvarosiles11?style=social">
+
+![GitHub last commit](https://img.shields.io/github/last-commit/alvarosiles11/alvarosiles11)
+
+![GitHub All Releases](https://img.shields.io/github/downloads/alvarosiles11/alvarosiles11/total)
