@@ -1,6 +1,6 @@
-# SOFTWARE ENGINEERING INTERVIEW QUESTIONS
+# SOFTWARE ENGINEERING
 
-<table border="0">
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -44,7 +44,7 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
 
 - Bolivia - santa cruz de la sierra
 
-#
+### INTERVIEW QUESTIONS
 
 - What is the study level you have acquired?
   - Bachelor's degree from nur University Nur
