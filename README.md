@@ -22,3 +22,6 @@
 - <a href="https://brave.com/es/"><img height="20" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" /> </a> linux
 
 ![Image text](https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png)
+![Nginx_840](https://user-images.githubusercontent.com/61075383/212946448-8a132c38-aa3a-4e3c-b4ea-1269c5a288f4.png)
+![ECX-1909_Hero_PostgreSQL_600x400@2x](https://user-images.githubusercontent.com/61075383/212946590-0008e4c6-abd4-4219-b668-a284d71d4c18.png)
+
