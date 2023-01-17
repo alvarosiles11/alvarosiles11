@@ -88,3 +88,22 @@ App android para recepción de pedidos
 <font size=”2”>. Then, the text string which we have added is “We are setting the size 1 for this text which is the smallest font size” and the close the tag as</font>.
 
 <font size=”3”>. Then, the text string which we have added is “We are setting the size 1 for this text which is the smallest font size” and the close the tag as</font>.
+
+[![Tweet](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=%F0%9F%93%A2%20Various%20README%20templates%20and%20tips%20on%20writing%20high-quality%20documentation%20that%20people%20want%20to%20read.&url=https://github.com/kylelobo/The-Documentation-Compendium)
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+
+[![GitHub Issues](https://img.shields.io/github/issues/alvarosiles11/The-Documentation-Compendium.svg)](https://github.com/alvarosiles11/alvarosiles11/issues)
+
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/alvarosiles11/The-Documentation-Compendium.svg)](https://github.com/alvarosiles11/alvarosiles11/pulls)
+
+ <p align="center"><i>A collection of awesome readme templates to display on your github profile.</i></p>
+<div align="center">
+  <a href="https://github.com/alvarosiles11/alvarosiles11/stargazers"><img src="https://img.shields.io/github/stars/alvarosiles11/alvarosiles11" alt="Stars Badge"/></a>
+<a href="https://github.com/alvarosiles11/alvarosiles11/network/members"><img src="https://img.shields.io/github/forks/alvarosiles11/alvarosiles11" alt="Forks Badge"/></a>
+<a href="https://github.com/alvarosiles11/alvarosiles11/pulls"><img src="https://img.shields.io/github/issues-pr/alvarosiles11/alvarosiles11" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/alvarosiles11/alvarosiles11/issues"><img src="https://img.shields.io/github/issues/alvarosiles11/alvarosiles11" alt="Issues Badge"/></a>
+<a href="https://github.com/alvarosiles11/alvarosiles11/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/alvarosiles11/alvarosiles11?color=2b9348"></a>
+<a href="https://github.com/alvarosiles11/alvarosiles11/blob/master/LICENSE"><img src="https://img.shields.io/github/license/alvarosiles11/alvarosiles11?color=2b9348" alt="License Badge"/></a>
+</div>
+<br>
