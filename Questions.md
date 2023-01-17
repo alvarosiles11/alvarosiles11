@@ -1,6 +1,10 @@
 # SOFTWARE ENGINEERING
 
-<table width="200px" align="right">
+<style>
+table   {margin: 0px 0px 0px 11px;}
+</style>
+
+<table  width="200px" align="right">
   <tr><td>Ingles</td><td>Level</td></tr>
   <tr>
     <td>Writing</td>
