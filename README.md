@@ -104,6 +104,19 @@ App android para recepción de pedidos
 <a href="https://github.com/alvarosiles11/alvarosiles11/pulls"><img src="https://img.shields.io/github/issues-pr/alvarosiles11/alvarosiles11" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/alvarosiles11/alvarosiles11/issues"><img src="https://img.shields.io/github/issues/alvarosiles11/alvarosiles11" alt="Issues Badge"/></a>
 <a href="https://github.com/alvarosiles11/alvarosiles11/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/alvarosiles11/alvarosiles11?color=2b9348"></a>
-<a href="https://github.com/alvarosiles11/alvarosiles11/blob/master/LICENSE"><img src="https://img.shields.io/github/license/alvarosiles11/alvarosiles11?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/alvarosiles11/alvarosiles11/blob/main/LICENSE"><img src="https://img.shields.io/github/license/alvarosiles11/alvarosiles11?color=2b9348" alt="License Badge"/></a>
 </div>
 <br>
+
+<br>
+<p align="center"><i>Loved the project? Please visit our <a href="https://alvarosiles11/alvarosiles11.app">Website</a></i></p>
+
+<!-- Contact -->
+
+## :handshake: Contact
+
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+
+Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
+
+alvarosiles1@gmail.com
