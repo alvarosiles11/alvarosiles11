@@ -54,33 +54,25 @@ App android para recepción de pedidos
 <table border="0">
  <tr>
    <td><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
-   <td>
+   
  
    <td><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
-   <td>
  
    <td><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
-   <td>
  
    <td><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
-   <td>
  
    <td><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
-   <td>
+ 
+   <td size="1"><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
  
    <td><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
-   <td>
  
    <td><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
-   <td>
  
    <td><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
-   <td>
  
-   <td><a href="https://brave.com/es/"><img height="12" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud </td>
-   <td>
  
-  
  
  </tr>
 </table>
@@ -88,3 +80,11 @@ App android para recepción de pedidos
 ![Nginx_840](https://user-images.githubusercontent.com/61075383/212946448-8a132c38-aa3a-4e3c-b4ea-1269c5a288f4.png)
 
 ![ECX-1909_Hero_PostgreSQL_600x400@2x](https://user-images.githubusercontent.com/61075383/212946590-0008e4c6-abd4-4219-b668-a284d71d4c18.png)
+
+<font size=”5”>. Then, the text string which we have added is “We are setting the size 1 for this text which is the smallest font size” and the close the tag as</font>.
+
+<font size=”1”>. Then, the text string which we have added is “We are setting the size 1 for this text which is the smallest font size” and the close the tag as</font>.
+
+<font size=”2”>. Then, the text string which we have added is “We are setting the size 1 for this text which is the smallest font size” and the close the tag as</font>.
+
+<font size=”3”>. Then, the text string which we have added is “We are setting the size 1 for this text which is the smallest font size” and the close the tag as</font>.
