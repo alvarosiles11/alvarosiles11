@@ -1,20 +1,6 @@
 # SOFTWARE ENGINEERING
 
-<table border="0" width="100%">
-<tr>
-<td>
-
-As a **Full Stack software engineer** with 4 years of experience in different areas, currently working at Servisofts SRL.
-**Mobile developer** with experience in Android with Java and Hybrid Platforms like React Native.
-**Full-stack developer** with experience in ASP.NET, PHP, Laravel, Java, React, Angular and Jquery.
-
-- As a Full Stack software engineer with 4 years of experience in different areas.
-- Licenciatura en Ingeniería de Sistemas - Universidad Nur 🎓
-- Diplomado en Arquitectura con Microservicios - Universidad Nur 🥇
-- Technology and innovation enthusiast 🖥️
-</td>
-<td width="200px">
-<table>
+<table width="200px" align="right">
   <tr><td>Ingles</td><td>Level</td></tr>
   <tr>
     <td>Writing</td>
@@ -33,9 +19,15 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
     <td>Intermediate B1</td>
   </tr>
 </table>
-</td>
-</tr>
-</table>
+
+As a **Full Stack software engineer** with 4 years of experience in different areas, currently working at Servisofts SRL.
+**Mobile developer** with experience in Android with Java and Hybrid Platforms like React Native.
+**Full-stack developer** with experience in ASP.NET, PHP, Laravel, Java, React, Angular and Jquery.
+
+- As a Full Stack software engineer with 4 years of experience in different areas.
+- Licenciatura en Ingeniería de Sistemas - Universidad Nur 🎓
+- Diplomado en Arquitectura con Microservicios - Universidad Nur 🥇
+- Technology and innovation enthusiast 🖥️
 
 ### 🤝🏻 Connect with Me
 
