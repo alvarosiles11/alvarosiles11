@@ -1,3 +1,15 @@
+#
+
+❤️ Interfaz completa #5013
+🎨 API de kernel agregada
+🔖 v2.0.15
+❤️ Interfaz kernel #5013
+♻️ Update/Actualización #6793
+🐛 fix/arreglo #6423
+🔥 Windows ya no es compatible con el sistema de 32 bits Corrección #6386
+📝 ordenar menú la semana pasada sincronizar
+✏️ Interfaz de clave de inicialización
+
 <h1 align='left'> Hi there! 👋</h1>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
