@@ -1,40 +1,6 @@
-# SOFTWARE ENGINEERING
+# :octocat: SOFTWARE ENGINEERING
 
-<!-- <style>
-table   {margin: 0px 0px 0px 11px;}
-</style> -->
-
-A [website](http://alvarosiles.com).
-
-* * *
-
-Look at [this tutorial](https://docsify.js.org/#/quickstart)
-
-[![Edit 307qqv236](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/307qqv236)
- 
-
-<table width="200px" align="right"  >
-    <thead>
-   <tr><td>Ingles</td><td>Level</td></tr>
-     </thead>
-    <tbody>
-  <tr><td>Ingles</td><td>Level</td></tr>
-  <tr><td>Writing</td><td>Intermediate B1</td></tr>
-  <tr> <td>Listening</td><td>Intermediate B1</td></tr>
-  <tr> <td>Speaking</td><td>Intermediate B1</td></tr>
-  <tr><td>Reading</td><td>Intermediate B1</td></tr>
-    </tbody>
-</table>
-
-:octocat: 整理 GitHub 语言统计
-
-
-| Ingles    | Level           |
-| --------- | --------------- |
-| Writing   | Intermediate B1 |
-| Listening | Intermediate B1 |
-| Speaking  | Intermediate B1 |
-| Reading   | Intermediate B1 |
+<!-- * * * -->
 
 As a **Full Stack software engineer** with 4 years of experience in different areas, currently working at Servisofts SRL.
 **Mobile developer** with experience in Android with Java and Hybrid Platforms like React Native.
@@ -45,8 +11,14 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
 - Diplomado en Arquitectura con Microservicios - Universidad Nur 🥇
 - Technology and innovation enthusiast 🖥️
 
+  | Ingles    | Level           |
+  | --------- | --------------- |
+  | Writing   | Intermediate B1 |
+  | Listening | Intermediate B1 |
+  | Speaking  | Intermediate B1 |
+  | Reading   | Intermediate B1 |
 
-### 🤝🏻 Connect with Me
+## 🤝🏻 Connect with Me
 
 - alvarosiles1@gmail.com
 - [+591 69050028](https://api.whatsapp.com/send?phone=59169050028&text=Hola,%20Alvaro%20vi%20repositorio%20GitHub%20y%20quiero%20preguntarle…)
@@ -290,7 +262,6 @@ Capacitación a usuarios en aplicaciones
 - How would you describe your passion for technology?
   - Technology and innovation enthusiast
 
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -322,7 +293,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     
   </tbody>
 </table>
-
 
 <table>
   <tbody>
