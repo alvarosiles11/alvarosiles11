@@ -118,22 +118,26 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
 
 14. Have you worked in the following Cloud platforms?
 
-    - ☁️ Google cloud
-    - ☁️ Digitalocean
-    - ☁️ Upcloud
-    - ☁️ Heroku
-    - ☁️ Railway
-    - ☁️ AWS
-    - ☁️ Microsoft Azure
+    | Cloud             |
+    | ----------------- |
+    | ☁️ Google cloud    |
+    | ☁️ Digitalocean    |
+    | ☁️ Upcloud         |
+    | ☁️ Heroku          |
+    | ☁️ Railway         |
+    | ☁️ AWS             |
+    | ☁️ Microsoft Azure |
 
 15. What Operative Systems do you know very well? Please list them.
 
-    - Ubuntu
-    - Mac OS
-    - Windows 10
-    - Windows Server
-    - Red Hat / CentOS ❌
-    - OpenSuSe ❌
+    | SO                 |
+    | ------------------ |
+    | Ubuntu             |
+    | Mac OS             |
+    | Windows 10         |
+    | Windows Server     |
+    | Red Hat / CentOS ❌ |
+    | OpenSuSe ❌         |
 
 16. List the technologies (programming languages, frameworks, libraries or platforms) where you consider to have a good domain usage and a solid experience.
 
