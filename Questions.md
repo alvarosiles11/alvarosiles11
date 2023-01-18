@@ -25,15 +25,13 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
 
 ### INTERVIEW QUESTIONS
 
-1. What is the study level you have acquired?
-
+1. What is the study level you have acquired? \
    Bachelor's degree from nur University Nur
 
-2. What is the career/specialty you studied?
-
+2. What is the career/specialty you studied? \
    System engineering 🖥️
 
-3. What is the name of the educational intitution where you studied?
+3. What is the name of the educational intitution where you studied? \
 
    [Nur University](https://www.nur.edu)
 
