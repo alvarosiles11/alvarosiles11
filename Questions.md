@@ -6,22 +6,22 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
 **Mobile developer** with experience in Android with Java and Hybrid Platforms like React Native.\
 **Full-stack developer** with experience in ASP.NET, PHP, Laravel, Java, React, Angular and Jquery.
 
-- Licenciatura en Ingeniería de Sistemas - Universidad Nur 🎓
-- Diplomado en Arquitectura con Microservicios - Universidad Nur 🥇
-- Technology and innovation enthusiast 🖥️ :octocat:
-  | Ingles    | Level           |
-  | --------- | --------------- |
-  | Writing   | Intermediate B1 |
-  | Listening | Intermediate B1 |
-  | Speaking  | Intermediate B1 |
-  | Reading   | Intermediate B1 |
+Licenciatura en Ingeniería de Sistemas - Universidad Nur 🎓\
+Diplomado en Arquitectura con Microservicios - Universidad Nur 🥇\
+Technology and innovation enthusiast 🖥️ :octocat:
+| Ingles    | Level           |
+| --------- | --------------- |
+| Writing   | Intermediate B1 |
+| Listening | Intermediate B1 |
+| Speaking  | Intermediate B1 |
+| Reading   | Intermediate B1 |
 
 ## 🤝🏻 Connect with Me
 
-- alvarosiles1@gmail.com
-- [+591 69050028](https://api.whatsapp.com/send?phone=59169050028&text=Hola,%20Alvaro%20vi%20repositorio%20GitHub%20y%20quiero%20preguntarle…)
-- Portfolio [www.alvarosiles.com](https://alvarosiles.com)
-- Bolivia - santa cruz de la sierra
+E-mail alvarosiles1@gmail.com \
+Phone [+591 69050028](https://api.whatsapp.com/send?phone=59169050028&text=Hola,%20Alvaro%20vi%20repositorio%20GitHub%20y%20quiero%20preguntarle…) \
+Portfolio [www.alvarosiles.com](https://alvarosiles.com) \
+Bolivia - santa cruz de la sierra
 
 ### INTERVIEW QUESTIONS
 
@@ -32,30 +32,21 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
    System engineering 🖥️
 
 3. What is the name of the educational intitution where you studied? \
-
    [Nur University](https://www.nur.edu)
 
-4. Are you currently working in a Company?
-
+4. Are you currently working in a Company? \
    Yes, I'm currently working in a Company as a Software Developer.
-   <!-- - I'm not currently working in a Company. -->
-
-5. Do you have experience doing planning and/or estimation of tasks? If yes, describe the approach/methodology you used for it.
-
+   
+5. Do you have experience doing planning and/or estimation of tasks? If yes, describe the approach/methodology you used for it. \
    Yes, I use [scrum](https://www.wrike.com/project-management-guide/faq/what-is-scrum-in-agile) for project development.
 
-6. What code versioning tools are you familiar with? Please list the ones you have had experienced lately.
-
+6. What code versioning tools are you familiar with? Please list the ones you have had experienced lately. \
    git, [github](https://github.com/alvarosiles11) and [gitlab](https://gitlab.com/alvarosiles11)
 
-7. Explain how your experience was working in a team and how many members and roles where part of that.
+7. Explain how your experience was working in a team and how many members and roles where part of that. \
    A software development team consists of 4 people.
-   <!-- * What was the most important research you have performed in your latest experience and how that impacted your team?
-   List the technologies (programming languages, frameworks, libraries or cloud services) where you consider to have a really good domain of usage and a solid experience.
-   Explain with details your experience in back-end development.
-   Explain with details your experience in front-end development. -->
-8. How long have you been coding in the following programming languages?
 
+8. How long have you been coding in the following programming languages?
    | Languages  | Level   |
    | ---------- | ------- |
    | JavaScript | 4 years |
@@ -64,7 +55,6 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
    | Python     | 1 years |
 
 9. What is your knowledge and experience with the following concepts?
-
    | Concepts                        | Level    |
    | ------------------------------- | -------- |
    | UML                             | Advanced |
@@ -79,7 +69,6 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
    | Code versioning                 | Advanced |
 
 10. What is your knowledge and experience with the following technologies?
-
     | Technologies      | Level    |
     | ----------------- | -------- |
     | HTML              | Advanced |
@@ -113,7 +102,6 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
     - node, react, react native
 
 14. Have you worked in the following Cloud platforms?
-
     | Cloud             |
     | ----------------- |
     | ☁️ Google cloud    |
@@ -125,7 +113,6 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
     | ☁️ Microsoft Azure |
 
 15. What Operative Systems do you know very well? Please list them.
-
     | SO                 |
     | ------------------ |
     | Ubuntu             |
@@ -136,33 +123,31 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
     | OpenSuSe ❌         |
 
 16. List the technologies (programming languages, frameworks, libraries or platforms) where you consider to have a good domain usage and a solid experience.
-
     | Development | Tools        |
     | ----------- | ------------ |
-    | 👨‍💻 frontend  | figma        |
-    | 👨‍💻 frontend  | node         |
-    | 👨‍💻 frontend  | react        |
-    | 👨‍💻 frontend  | react native |
-    | 🗄️ backend   | draw.io      |
-    | 🗄️ backend   | postgresql   |
-    | 🗄️ backend   | java         |
-    | ⚙️ server    | ngnex        |
-    | ⚙️ server    | docker       |
+    | 👨‍💻 Frontend  | Figma        |
+    | 👨‍💻 Frontend  | Postman      |
+    | 👨‍💻 Frontend  | Node         |
+    | 👨‍💻 Frontend  | React        |
+    | 👨‍💻 Frontend  | Reactnative  |
+    | 🗄️ Dackend   | Draw.io      |
+    | 🗄️ Database  | Postgresql   |
+    | 🗄️ Dackend   | Java         |
+    | ⚙️ Devops    | Ngnex        |
+    | ⚙️ Devops    | Docker       |
+    | ⚙️ Devops    | Google Cloud |
+    | ⚙️ Devops    | Azure        |
 
-17. where have you been able to play a dev or IT cloud role?
-
+17. where have you been able to play a dev or IT cloud role? \
     I have developed the cloud platform at **university, postgraduate and company**.
 
-18. Have you ever participated in any dev events (workshops, contests, challenges)
-
+18. Have you ever participated in any dev events (workshops, contests, challenges) \
     yes at the university
 
-19. What is your experience working as a Systems Administrator?
-
+19. What is your experience working as a Systems Administrator? \
     I gained experience in troubleshooting network problems, backing up, restoring and recovering data at my previous job
 
 20. What is your English proficiency?
-
     | Ingles    | Level           |
     | --------- | --------------- |
     | Writing   | Intermediate B1 |
@@ -170,37 +155,5 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
     | Speaking  | Intermediate B1 |
     | Reading   | Intermediate B1 |
 
-21. How would you describe your passion for technology?
-
+21. How would you describe your passion for technology? \
     Technology and innovation enthusiast
-
-
-  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
-
-
-
-
-- [+591 69050028](https://api.whatsapp.com/send?phone=59169050028&text=Hola,%20Alvaro%20vi%20repositorio%20GitHub%20y%20quiero%20preguntarle…)
-- 
-- <a href="https://brave.com/es/"><img height="20" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud
-- <a href="https://brave.com/es/"><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/digitalocean-2752211-2285028.png" /> </a> digitalocean
-- <a href="https://brave.com/es/"><img height="20" src="https://d1ikh4ar37569m.cloudfront.net/p1ilnhm3dmlggyzcxbgmxujjp228" /> </a> upcloud
-- <a href="https://brave.com/es/"><img height="20" src="https://static-00.iconduck.com/assets.00/heroku-original-wordmark-icon-256x253-sll1g2ca.png" /> </a> Heroku
-- <a href="https://brave.com/es/"><img height="20" src="https://railway.app/brand/logo-dark.png" /> </a> Railway
-- <a href="https://brave.com/es/"><img height="20" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-512.png" /> </a> AWS
-- <a href="https://brave.com/es/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" /> </a> Microsoft Azure
-
-
-FOO 
-BAR&nbsp;&nbsp;<wbr>FOO 
-BAR
-
-aaaaaaaaaaaaaaaaaaaaaaaaa \
-aaaaaaaaaaaaaaaaaaaaaaaaa \
-aaaaaaaaaaaaaaaaaaaaaaaaa \
-aaaaaaaaaaaaaaaaaaaaaaaaa \
-
-
-aaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaa

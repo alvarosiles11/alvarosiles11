@@ -1,3 +1,33 @@
+   <!-- - I'm not currently working in a Company. -->
+
+    | Cloud             |
+    | ----------------- |
+    | ☁️ Google cloud    |
+    | ☁️ Digitalocean    |
+    | ☁️ Upcloud         |
+    | ☁️ Heroku          |
+    | ☁️ Railway         |
+    | ☁️ AWS             |
+    | ☁️ Microsoft Azure |
+
+
+    <img height="10" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png"/> google cloud \
+    <img height="10" src="https://cdn.iconscout.com/icon/free/png-256/digitalocean-2752211-2285028.png"/> digitalocean \
+    <img height="10" src="https://d1ikh4ar37569m.cloudfront.net/p1ilnhm3dmlggyzcxbgmxujjp228"/> upcloud \
+    <img height="10" src="https://static-00.iconduck.com/assets.00/heroku-original-wordmark-icon-256x253-sll1g2ca.png"/> Heroku \
+    <img height="10" src="https://railway.app/brand/logo-dark.png"/> Railway \
+    <img height="10" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-512.png"/> AWS  \
+    <img height="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png"/> Microsoft Azure
+
+
+7. Explain how your experience was working in a team and how many members and roles where part of that. \
+   A software development team consists of 4 people. 
+   <!-- * What was the most important research you have performed in your latest experience and how that impacted your team?
+   List the technologies (programming languages, frameworks, libraries or cloud services) where you consider to have a really good domain of usage and a solid experience.
+   Explain with details your experience in back-end development.
+   Explain with details your experience in front-end development. -->
+      
+   
     <!-- responsable de vigilar la seguridad de la red y de gestionar el tráfico
 
     brinda soluciones a cualquier problema de hardware y software
