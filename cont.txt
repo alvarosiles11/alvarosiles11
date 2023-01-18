@@ -1,0 +1,43 @@
+    <!-- responsable de vigilar la seguridad de la red y de gestionar el tráfico
+
+    brinda soluciones a cualquier problema de hardware y software
+
+    Administrador de redes
+    Técnico gestor de bases de datos
+    Los firewalls están habilitados
+
+    Capacitación a usuarios en aplicaciones
+    • Internet funciona correctamente
+    • El software está actualizado -->
+
+
+    
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://jevakallio.dev/"><img src="https://avatars1.githubusercontent.com/u/1203949?v=4?s=60" width="60px;" alt="Jani Eväkallio"/><br /><sub><b>Jani Eväkallio</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=jevakallio" title="Code">💻</a> <a href="https://github.com/foambubble/foam/commits?author=jevakallio" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://joeprevite.com/"><img src="https://avatars3.githubusercontent.com/u/3806031?v=4?s=60" width="60px;" alt="Joe Previte"/><br /><sub><b>Joe Previte</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=jsjoeio" title="Code">💻</a> <a href="https://github.com/foambubble/foam/commits?author=jsjoeio" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/riccardoferretti"><img src="https://avatars3.githubusercontent.com/u/457005?v=4?s=60" width="60px;" alt="Riccardo"/><br /><sub><b>Riccardo</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=riccardoferretti" title="Code">💻</a> <a href="https://github.com/foambubble/foam/commits?author=riccardoferretti" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://ojanaho.com/"><img src="https://avatars0.githubusercontent.com/u/2180090?v=4?s=60" width="60px;" alt="Janne Ojanaho"/><br /><sub><b>Janne Ojanaho</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=jojanaho" title="Code">💻</a> <a href="https://github.com/foambubble/foam/commits?author=jojanaho" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://bypaulshen.com/"><img src="https://avatars3.githubusercontent.com/u/2266187?v=4?s=60" width="60px;" alt="Paul Shen"/><br /><sub><b>Paul Shen</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=paulshen" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/coffenbacher"><img src="https://avatars0.githubusercontent.com/u/245867?v=4?s=60" width="60px;" alt="coffenbacher"/><br /><sub><b>coffenbacher</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=coffenbacher" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://mathieu.dutour.me/"><img src="https://avatars2.githubusercontent.com/u/3254314?v=4?s=60" width="60px;" alt="Mathieu Dutour"/><br /><sub><b>Mathieu Dutour</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=mathieudutour" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+     <td align="center" valign="top" width="14.28%">📖 </td>
+     <td align="center" valign="top" width="14.28%">📖 </td>
+     <td align="center" valign="top" width="14.28%">📖 </td>
+     <td align="center" valign="top" width="14.28%">📖 </td>
+     <td align="center" valign="top" width="14.28%">📖 </td>
+    </tr>
+  </tbody>
+</table>
