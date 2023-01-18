@@ -2,15 +2,13 @@
 
 <!-- * * * -->
 
-As a **Full Stack software engineer** with 4 years of experience in different areas, currently working at Servisofts SRL.
-**Mobile developer** with experience in Android with Java and Hybrid Platforms like React Native.
+As a **Full Stack software engineer** with 4 years of experience in different areas, currently working at Servisofts SRL.\
+**Mobile developer** with experience in Android with Java and Hybrid Platforms like React Native.\
 **Full-stack developer** with experience in ASP.NET, PHP, Laravel, Java, React, Angular and Jquery.
 
-- As a Full Stack software engineer with 4 years of experience in different areas.
 - Licenciatura en Ingeniería de Sistemas - Universidad Nur 🎓
 - Diplomado en Arquitectura con Microservicios - Universidad Nur 🥇
 - Technology and innovation enthusiast 🖥️ :octocat:
-
   | Ingles    | Level           |
   | --------- | --------------- |
   | Writing   | Intermediate B1 |
@@ -22,7 +20,7 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
 
 - alvarosiles1@gmail.com
 - [+591 69050028](https://api.whatsapp.com/send?phone=59169050028&text=Hola,%20Alvaro%20vi%20repositorio%20GitHub%20y%20quiero%20preguntarle…)
-- Website Portfolio [alvarosiles.com](https://alvarosiles.com)
+- Portfolio [www.alvarosiles.com](https://alvarosiles.com)
 - Bolivia - santa cruz de la sierra
 
 ### INTERVIEW QUESTIONS
@@ -143,15 +141,15 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
 
     | Development | Tools        |
     | ----------- | ------------ |
-    | frontend    | figma        |
-    | frontend    | node         |
-    | frontend    | react        |
-    | frontend    | react native |
-    | backend     | draw.io      |
-    | backend     | postgresql   |
-    | backend     | java         |
-    | server      | ngnex        |
-    | server      | docker       |
+    | 👨‍💻 frontend  | figma        |
+    | 👨‍💻 frontend  | node         |
+    | 👨‍💻 frontend  | react        |
+    | 👨‍💻 frontend  | react native |
+    | 🗄️ backend   | draw.io      |
+    | 🗄️ backend   | postgresql   |
+    | 🗄️ backend   | java         |
+    | ⚙️ server    | ngnex        |
+    | ⚙️ server    | docker       |
 
 17. where have you been able to play a dev or IT cloud role?
 
@@ -178,7 +176,33 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
 
     Technology and innovation enthusiast
 
-    | Ingles  |
-    | ------- |
-    | Writing |
-    | Writing |
+
+  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
+
+
+
+
+- [+591 69050028](https://api.whatsapp.com/send?phone=59169050028&text=Hola,%20Alvaro%20vi%20repositorio%20GitHub%20y%20quiero%20preguntarle…)
+- 
+- <a href="https://brave.com/es/"><img height="20" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" /> </a> google cloud
+- <a href="https://brave.com/es/"><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/digitalocean-2752211-2285028.png" /> </a> digitalocean
+- <a href="https://brave.com/es/"><img height="20" src="https://d1ikh4ar37569m.cloudfront.net/p1ilnhm3dmlggyzcxbgmxujjp228" /> </a> upcloud
+- <a href="https://brave.com/es/"><img height="20" src="https://static-00.iconduck.com/assets.00/heroku-original-wordmark-icon-256x253-sll1g2ca.png" /> </a> Heroku
+- <a href="https://brave.com/es/"><img height="20" src="https://railway.app/brand/logo-dark.png" /> </a> Railway
+- <a href="https://brave.com/es/"><img height="20" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-512.png" /> </a> AWS
+- <a href="https://brave.com/es/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" /> </a> Microsoft Azure
+
+
+FOO 
+BAR&nbsp;&nbsp;<wbr>FOO 
+BAR
+
+aaaaaaaaaaaaaaaaaaaaaaaaa \
+aaaaaaaaaaaaaaaaaaaaaaaaa \
+aaaaaaaaaaaaaaaaaaaaaaaaa \
+aaaaaaaaaaaaaaaaaaaaaaaaa \
+
+
+aaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaa

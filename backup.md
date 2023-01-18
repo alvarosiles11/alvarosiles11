@@ -101,10 +101,13 @@
 
 <p align='left'>
 <h3> 🤝🏻 Connect with Me
-  &nbsp; <a href="https://www.linkedin.com/in/alvarosiles11/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="30" /></a>
+   &emsp;&thinsp;	 &puncsp;	&numsp;	 <a href="https://www.linkedin.com/in/alvarosiles11/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="30" /></a>
 
 </h3>
+BAR&nbsp;&nbsp;FOO 
 
+BAR &bsp; &bsp;
+FOO
 </p>
 
 <h3 align='center'>
