@@ -26,25 +26,25 @@ Bolivia - santa cruz de la sierra
 ### INTERVIEW QUESTIONS
 
 1. What is the study level you have acquired? \
-   Bachelor's degree from nur University Nur
+   Bachelor of **Systems Engineering** at Nur University
 
 2. What is the career/specialty you studied? \
-   System engineering 🖥️
+   I have studied **microservices architecture postgraduate** at the nur university
 
 3. What is the name of the educational intitution where you studied? \
    [Nur University](https://www.nur.edu)
 
 4. Are you currently working in a Company? \
    Yes, I'm currently working in a Company as a Software Developer.
-   
-5. Do you have experience doing planning and/or estimation of tasks? If yes, describe the approach/methodology you used for it. \
-   Yes, I use [scrum](https://www.wrike.com/project-management-guide/faq/what-is-scrum-in-agile) for project development.
+
+5. Do you have experience doing planning and/or estimation of tasks? If yes, describe the approach/methodology you used for it you used for it. \
+   Yes, I use [methodology scrum](https://www.wrike.com/project-management-guide/faq/what-is-scrum-in-agile) for project development.
 
 6. What code versioning tools are you familiar with? Please list the ones you have had experienced lately. \
-   git, [github](https://github.com/alvarosiles11) and [gitlab](https://gitlab.com/alvarosiles11)
+   [github](https://github.com/alvarosiles11) and [gitlab](https://gitlab.com/alvarosiles11)
 
 7. Explain how your experience was working in a team and how many members and roles where part of that. \
-   A software development team consists of 4 people.
+   I worked in a team of 5 people: 1 scrum master, 2 backend developers and 2 frontend developers. The role I played was frontend, designed prototypes in figma then proceeded to program.
 
 8. How long have you been coding in the following programming languages?
    | Languages  | Level   |
@@ -80,29 +80,34 @@ Bolivia - santa cruz de la sierra
 
 11. Have you ever participated in any dev events (workshops, contest, challenges) where have you been able to play a dev role?
 
-    - GDG Dev Fest ✅
-    - ACM-ICPC
-    - Space Apps Challenge
-    - Google Code Jam ✅
-    - None
-    - Otro: ✅
+    - [x] GDG Dev Fest
+    - [ ] ACM-ICPC
+    - [ ] Space Apps Challenge
+    - [x] Google Code Jam
+    - [ ] None
+    - [x] Otro: Google I/O✅
 
-12. What is your experience working as a backend developer?
+12. What is your experience working as a backend developer? \
+    My experience working as a **backend developer**:
 
-    - My experience working as a **backend developer**
-    - deploy de servidores en linux on ubuntu, i build microservice at technology java
-    - deploy de servidores
-    - en linux en ubuntu
-    - tecnologia java
+    - database configuration and maintenance
+    - creation-tests of Apis rest, JSON with postman
+    - management of server libraries
+    - set up and maintain cloud servers
+    - deploy de servidores en linux on ubuntu
 
-13. What is your experience working as a frontend developer?
+13. What is your experience working as a frontend developer? \
+    My experience working as a **frontend developer**:
 
-    - My experience working as a **frontend developer**
-    - creation of designs in figma then develop in react technology
-    - node, react, react native
+    - ux/ui prototyping in figma
+    - ensure web accessibility
+    - implement SEO practices website
+    - rest api consumption
+    - I develop websites and hybrid applications in Reactnative
+    - Debug unit tests and E2E testing
 
 14. Have you worked in the following Cloud platforms?
-    | Cloud             |
+    | Cloud platforms   |
     | ----------------- |
     | ☁️ Google cloud    |
     | ☁️ Digitalocean    |
@@ -113,7 +118,7 @@ Bolivia - santa cruz de la sierra
     | ☁️ Microsoft Azure |
 
 15. What Operative Systems do you know very well? Please list them.
-    | SO                 |
+    | OS                 |
     | ------------------ |
     | Ubuntu             |
     | Mac OS             |
@@ -130,9 +135,9 @@ Bolivia - santa cruz de la sierra
     | 👨‍💻 Frontend  | Node         |
     | 👨‍💻 Frontend  | React        |
     | 👨‍💻 Frontend  | Reactnative  |
-    | 🗄️ Dackend   | Draw.io      |
+    | 🗄️ Backend   | Draw.io      |
+    | 🗄️ Backend   | Java         |
     | 🗄️ Database  | Postgresql   |
-    | 🗄️ Dackend   | Java         |
     | ⚙️ Devops    | Ngnex        |
     | ⚙️ Devops    | Docker       |
     | ⚙️ Devops    | Google Cloud |
@@ -142,7 +147,7 @@ Bolivia - santa cruz de la sierra
     I have developed the cloud platform at **university, postgraduate and company**.
 
 18. Have you ever participated in any dev events (workshops, contests, challenges) \
-    yes at the university
+    I have participated in the university in the project fairs, which I received a certificate.
 
 19. What is your experience working as a Systems Administrator? \
     I gained experience in troubleshooting network problems, backing up, restoring and recovering data at my previous job
