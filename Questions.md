@@ -4,25 +4,37 @@
 table   {margin: 0px 0px 0px 11px;}
 </style> -->
 
+A [website](http://alvarosiles.com).
+
+* * *
+
+Look at [this tutorial](https://docsify.js.org/#/quickstart)
+
+[![Edit 307qqv236](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/307qqv236)
+ 
+
 <table width="200px" align="right"  >
+    <thead>
+   <tr><td>Ingles</td><td>Level</td></tr>
+     </thead>
+    <tbody>
   <tr><td>Ingles</td><td>Level</td></tr>
-  <tr>
-    <td>Writing</td>
-    <td>Intermediate B1</td>
-  </tr>
-  <tr>
-    <td>Listening</td>
-    <td>Intermediate B1</td>
-  </tr>
-  <tr>
-    <td>Speaking</td>
-    <td>Intermediate B1</td>
-  </tr>
-  <tr>
-    <td>Reading</td>
-    <td>Intermediate B1</td>
-  </tr>
+  <tr><td>Writing</td><td>Intermediate B1</td></tr>
+  <tr> <td>Listening</td><td>Intermediate B1</td></tr>
+  <tr> <td>Speaking</td><td>Intermediate B1</td></tr>
+  <tr><td>Reading</td><td>Intermediate B1</td></tr>
+    </tbody>
 </table>
+
+:octocat: 整理 GitHub 语言统计
+
+
+| Ingles    | Level           |
+| --------- | --------------- |
+| Writing   | Intermediate B1 |
+| Listening | Intermediate B1 |
+| Speaking  | Intermediate B1 |
+| Reading   | Intermediate B1 |
 
 As a **Full Stack software engineer** with 4 years of experience in different areas, currently working at Servisofts SRL.
 **Mobile developer** with experience in Android with Java and Hybrid Platforms like React Native.
@@ -33,11 +45,12 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
 - Diplomado en Arquitectura con Microservicios - Universidad Nur 🥇
 - Technology and innovation enthusiast 🖥️
 
+
 ### 🤝🏻 Connect with Me
 
 - alvarosiles1@gmail.com
-- <a href="https://api.whatsapp.com/send?phone=59169050028&text=Hola,%20Alvaro%20vi%20repositorio%20GitHub%20y%20quiero%20preguntarle…"> +591 69050028</a>
-
+- [+591 69050028](https://api.whatsapp.com/send?phone=59169050028&text=Hola,%20Alvaro%20vi%20repositorio%20GitHub%20y%20quiero%20preguntarle…)
+- Website Portfolio [alvarosiles.com](https://alvarosiles.com)
 - Bolivia - santa cruz de la sierra
 
 ### INTERVIEW QUESTIONS
@@ -47,12 +60,12 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
 - What is the career/specialty you studied?
   - System engineering 🖥️
 - What is the name of the educational intitution where you studied?
-  - <a href="https://www.nur.edu">Nur University</a>
+  - [Nur University](https://www.nur.edu)
 - Are you currently working in a Company?
   - Yes, I'm currently working in a Company as a Software Developer.
   <!-- - I'm not currently working in a Company. -->
 - Do you have experience doing planning and/or estimation of tasks? If yes, describe the approach/methodology you used for it.
-  - Yes, I use <a href="https://www.wrike.com/project-management-guide/faq/what-is-scrum-in-agile">scrum</a> for project development.
+  - Yes, I use [scrum](https://www.wrike.com/project-management-guide/faq/what-is-scrum-in-agile) for project development.
 - What code versioning tools are you familiar with? Please list the ones you have had experienced lately.
   - git, <a href="https://github.com/alvarosiles11">github</a> y <a href="https://gitlab.com/alvarosiles11">gitlab</a>
 - Explain how your experience was working in a team and how many members and roles where part of that.
@@ -188,11 +201,13 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
   - en linux en ubuntu
   - tecnologia java
 - What is your experience working as a frontend developer?
+
   - My experience working as a **frontend developer**
   - creation of designs in figma then develop in react technology
   - node, react, react native
 
-* Have you worked in the following Cloud platforms?
+- Have you worked in the following Cloud platforms?
+
   - ☁️ Google cloud
   - ☁️ Digitalocean
   - ☁️ Upcloud
@@ -274,3 +289,49 @@ Capacitación a usuarios en aplicaciones
   </table>
 - How would you describe your passion for technology?
   - Technology and innovation enthusiast
+
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://jevakallio.dev/"><img src="https://avatars1.githubusercontent.com/u/1203949?v=4?s=60" width="60px;" alt="Jani Eväkallio"/><br /><sub><b>Jani Eväkallio</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=jevakallio" title="Code">💻</a> <a href="https://github.com/foambubble/foam/commits?author=jevakallio" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://joeprevite.com/"><img src="https://avatars3.githubusercontent.com/u/3806031?v=4?s=60" width="60px;" alt="Joe Previte"/><br /><sub><b>Joe Previte</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=jsjoeio" title="Code">💻</a> <a href="https://github.com/foambubble/foam/commits?author=jsjoeio" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/riccardoferretti"><img src="https://avatars3.githubusercontent.com/u/457005?v=4?s=60" width="60px;" alt="Riccardo"/><br /><sub><b>Riccardo</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=riccardoferretti" title="Code">💻</a> <a href="https://github.com/foambubble/foam/commits?author=riccardoferretti" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://ojanaho.com/"><img src="https://avatars0.githubusercontent.com/u/2180090?v=4?s=60" width="60px;" alt="Janne Ojanaho"/><br /><sub><b>Janne Ojanaho</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=jojanaho" title="Code">💻</a> <a href="https://github.com/foambubble/foam/commits?author=jojanaho" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://bypaulshen.com/"><img src="https://avatars3.githubusercontent.com/u/2266187?v=4?s=60" width="60px;" alt="Paul Shen"/><br /><sub><b>Paul Shen</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=paulshen" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/coffenbacher"><img src="https://avatars0.githubusercontent.com/u/245867?v=4?s=60" width="60px;" alt="coffenbacher"/><br /><sub><b>coffenbacher</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=coffenbacher" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://mathieu.dutour.me/"><img src="https://avatars2.githubusercontent.com/u/3254314?v=4?s=60" width="60px;" alt="Mathieu Dutour"/><br /><sub><b>Mathieu Dutour</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=mathieudutour" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/presidentelect"><img src="https://avatars2.githubusercontent.com/u/1242300?v=4?s=60" width="60px;" alt="Michael Hansen"/><br /><sub><b>Michael Hansen</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=presidentelect" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://klickverbot.at/"><img src="https://avatars1.githubusercontent.com/u/19335?v=4?s=60" width="60px;" alt="David Nadlinger"/><br /><sub><b>David Nadlinger</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=dnadlinger" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://pluckd.co/"><img src="https://avatars2.githubusercontent.com/u/20598571?v=4?s=60" width="60px;" alt="Fernando"/><br /><sub><b>Fernando</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=MrCordeiro" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jfgonzalez7"><img src="https://avatars3.githubusercontent.com/u/58857736?v=4?s=60" width="60px;" alt="Juan Gonzalez"/><br /><sub><b>Juan Gonzalez</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=jfgonzalez7" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.louiechristie.com/"><img src="https://avatars1.githubusercontent.com/u/6807448?v=4?s=60" width="60px;" alt="Louie Christie"/><br /><sub><b>Louie Christie</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=louiechristie" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://supersandro.de/"><img src="https://avatars2.githubusercontent.com/u/7258858?v=4?s=60" width="60px;" alt="Sandro"/><br /><sub><b>Sandro</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=SuperSandro2000" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Skn0tt"><img src="https://avatars1.githubusercontent.com/u/14912729?v=4?s=60" width="60px;" alt="Simon Knott"/><br /><sub><b>Simon Knott</b></sub></a><br /><a href="https://github.com/foambubble/foam/commits?author=Skn0tt" title="Documentation">📖</a></td>
+    </tr>
+ 
+    
+  </tbody>
+</table>
+
+
+<table>
+  <tbody>
+    <tr>
+     <td align="center" valign="top" width="14.28%">📖 </td>
+     <td align="center" valign="top" width="14.28%">📖 </td>
+     <td align="center" valign="top" width="14.28%">📖 </td>
+     <td align="center" valign="top" width="14.28%">📖 </td>
+     <td align="center" valign="top" width="14.28%">📖 </td>
+    </tr>
+  </tbody>
+</table>
