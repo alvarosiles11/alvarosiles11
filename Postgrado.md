@@ -1,17 +1,8 @@
-<h1 align='left'> Hi there! 👋</h1>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-<em align='left'>I'm Alvaro.</em>
- 
-![alvaro](https://user-images.githubusercontent.com/61075383/212468737-5b32f5e3-bb2d-421e-8854-48f6a124f3dd.jpg)
-
-<p><em>Bachelor of Systems Engineering at <a href="https://www.nur.edu">Nur University</a>
-
- ### Diseño Dirigido por el Dominio y Arquitectura Limpia
+### Diseño Dirigido por el Dominio y Arquitectura Limpia
 
 - Diseño Dirigido por el Dominio.
-<!-- - Diseño Estratégico. -->
-<!-- - Diseño Táctico. -->
+  <!-- - Diseño Estratégico. -->
+  <!-- - Diseño Táctico. -->
 - Arquitectura Limpia y CQRS.
 
 ### TESTING
@@ -106,20 +97,3 @@ comunicación que permita comunicar microservicios de manera interna y externa.
 <!-- * Pratron Productor/Consumidor. -->
 <!-- * Arquitectura Dirigida por Eventos. -->
 <!-- * Sagas -->
-
- 
-
-
-
-
-<p align="center"> 
-  Visitors count:<br>
-  <meta http-equiv="refresh" content="0.6">
-  <img src="https://profile-counter.glitch.me/alvarosiles11/count.svg" />
-</p>
-
-![Image text](https://raw.githubusercontent.com/alvarosiles11/alvarosiles11/output/github-contribution-grid-snake.svg)
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
-![](https://komarev.com/ghpvc/?username=alvarosiles11&label=PROFILE+VIEWS)
- 

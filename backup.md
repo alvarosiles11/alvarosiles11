@@ -1,6 +1,6 @@
 #
 
-❤️ Interfaz completa #5013
+<!-- ❤️ Interfaz completa #5013
 🎨 API de kernel agregada
 🔖 v2.0.15
 ❤️ Interfaz kernel #5013
@@ -8,7 +8,7 @@
 🐛 fix/arreglo #6423
 🔥 Windows ya no es compatible con el sistema de 32 bits Corrección #6386
 📝 ordenar menú la semana pasada sincronizar
-✏️ Interfaz de clave de inicialización
+✏️ Interfaz de clave de inicialización -->
 
 <h1 align='left'> Hi there! 👋</h1>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -134,3 +134,11 @@ camo.githubusercontent.com/faf1bbbc1fec8d54a98135ca197c202dfcd3a5b93fc0a49cccfa3
 alvaro-siles.web.app
 
 alvarosiles1.github.io/home
+
+![alvaro](https://user-images.githubusercontent.com/61075383/212468737-5b32f5e3-bb2d-421e-8854-48f6a124f3dd.jpg)
+
+![Image text](https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png)
+
+![Nginx_840](https://user-images.githubusercontent.com/61075383/212946448-8a132c38-aa3a-4e3c-b4ea-1269c5a288f4.png)
+
+![ECX-1909_Hero_PostgreSQL_600x400@2x](https://user-images.githubusercontent.com/61075383/212946590-0008e4c6-abd4-4219-b668-a284d71d4c18.png)
