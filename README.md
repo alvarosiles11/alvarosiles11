@@ -179,3 +179,11 @@ Bolivia - santa cruz de la sierra
 ![](https://komarev.com/ghpvc/?username=alvarosiles11&label=PROFILE+VIEWS)
 
 <img src="https://profile-counter.glitch.me/alvarosiles11/count.svg" />
+
+<!-- El Gerente del Proyecto Es responsable de la planificación del proyecto, de mantener el proyecto dentro del presupuesto, y de la solución de problemas
+El Administrador de sistemas Un administrador de cuentas cultiva la relación con el cliente
+El sistema en que la aplicación  Se arman los servidores, se instala el sistema operativo, un servidor web, PHP, una base de datos y cualquier software adicional que se requiera. Incluso antes de que el proyecto se haya terminado, un administrador del sistema puede tener que construir los entornos de desarrollo y ambientes de prueba. Más adelante en el proyecto, se ocupara de mantener los sistemas operando.
+El Administrador de Código varios de los desarrolladores están trabajando en conjunto, el código que escriben deben integrarse en algún momento
+El Capacitador El Capacitador relaciona las soluciones que se han creado con el usuario final
+QUALITY ASSURANCE (QA) Aunque cuando hablamos de Tester y Quality Assurance (AQ) como lo mismo, uno y otro perfil pueden tener diferencias notables. “Un tester se encarga de encontrar fallos, pero un QA no sólo los encuentra, sino que ayuda a prevenirlos”. Por tanto, un QA se asegura de la calidad del software durante todas sus fases, no sólo en la fase de pruebas como un tester. Podría decirse que es una evolución de éste al que se le han añadido tareas con el fin de asegurar la calidad global del proyecto y del producto o servicio resultante. 
+TESTER Se encargará de asegurar que los requisitos definidos por el arquitecto de software se cumplen en la implementación del producto o servicio realizada por los desarrolladores y/o programadores -->
