@@ -6,8 +6,8 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
 **Mobile developer** with experience in Android with Java and Hybrid Platforms like React Native.\
 **Full-stack developer** with experience in ASP.NET, PHP, Laravel, Java, React, Angular and Jquery.
 
-Licenciatura en Ingeniería de Sistemas - Universidad Nur 🎓\
-Diplomado en Arquitectura con Microservicios - Universidad Nur 🥇\
+Degree in Systems Engineering - Universidad Nur.🎓\
+Postgraduate in Architecture with Microservices - Universidad Nur.🥇\
 Technology and innovation enthusiast 🖥️ :octocat:
 | Ingles    | Level           |
 | --------- | --------------- |
