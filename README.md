@@ -1,5 +1,4 @@
 # SOFTWARE ENGINEERING
-
 <!-- * * * -->
 
 As a **Full Stack software engineer** with 4 years of experience in different areas, currently working at Servisofts SRL.\
