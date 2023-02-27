@@ -6,9 +6,6 @@ As a **Full Stack software engineer** with 4 years of experience in different ar
 **Full-stack developer** with experience in ASP.NET, PHP, Laravel, Java, React, Angular and Jquery.
 
 
-
-
-
 Degree in Systems Engineering - Universidad Nur.🎓\
 Postgraduate in Architecture with Microservices - Universidad Nur.🥇\
 Technology and innovation enthusiast 🖥️ :octocat:
