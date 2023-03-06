@@ -184,3 +184,7 @@ El Administrador de Código varios de los desarrolladores están trabajando en c
 El Capacitador El Capacitador relaciona las soluciones que se han creado con el usuario final
 QUALITY ASSURANCE (QA) Aunque cuando hablamos de Tester y Quality Assurance (AQ) como lo mismo, uno y otro perfil pueden tener diferencias notables. “Un tester se encarga de encontrar fallos, pero un QA no sólo los encuentra, sino que ayuda a prevenirlos”. Por tanto, un QA se asegura de la calidad del software durante todas sus fases, no sólo en la fase de pruebas como un tester. Podría decirse que es una evolución de éste al que se le han añadido tareas con el fin de asegurar la calidad global del proyecto y del producto o servicio resultante. 
 TESTER Se encargará de asegurar que los requisitos definidos por el arquitecto de software se cumplen en la implementación del producto o servicio realizada por los desarrolladores y/o programadores -->
+
+
+
+
