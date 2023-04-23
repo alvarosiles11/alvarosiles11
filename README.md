@@ -65,9 +65,6 @@ Bolivia - santa cruz de la sierra
    | Debugging                       | Advanced |
    | Code versioning                 | Advanced |
 
-
-
-
 10. What is your knowledge and experience with the following technologies?
     | Technologies      | Level    |
     | ----------------- | -------- |
