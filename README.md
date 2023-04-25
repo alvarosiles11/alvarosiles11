@@ -75,6 +75,7 @@ Bolivia - santa cruz de la sierra
     | NPM               | Advanced |
     | Git/GitLab/GitHub | Advanced |
 
+
 11. Have you ever participated in any dev events (workshops, contest, challenges) where have you been able to play a dev role?
 
     - [x] GDG Dev Fest
