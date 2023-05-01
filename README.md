@@ -31,6 +31,8 @@ Bolivia - santa cruz de la sierra
 3. What is the name of the educational intitution where you studied? \
    [Nur University](https://www.nur.edu)
 
+
+
 4. Are you currently working in a Company? \
    Yes, I'm currently working in a Company as a Software Developer.
 
