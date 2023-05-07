@@ -1,19 +1,17 @@
 # SOFTWARE ENGINEERING
-
 <!-- * * * -->
-
 As a **Full Stack software engineer** with 4 years of experience in different areas, currently working at Servisofts SRL.\
 **Mobile developer** with experience in Android with Java and Hybrid Platforms like React Native.\
 **Full-stack developer** with experience in ASP.NET, PHP, Laravel, Java, React, Angular and Jquery.
 Degree in Systems Engineering - Universidad Nur.🎓\
 Postgraduate in Architecture with Microservices - Universidad Nur.🥇\
 Technology and innovation enthusiast 🖥️ :octocat:
-| Ingles | Level |
+| Ingles    | Level           |
 | --------- | --------------- |
-| Writing | Intermediate B1 |
+| Writing   | Intermediate B1 |
 | Listening | Intermediate B1 |
-| Speaking | Intermediate B1 |
-| Reading | Intermediate B1 |
+| Speaking  | Intermediate B1 |
+| Reading   | Intermediate B1 |
 
 ## 🤝🏻 Connect with Me
 
@@ -22,7 +20,6 @@ Phone [+591 69050028](https://api.whatsapp.com/send?phone=59169050028&text=Hola,
 Portfolio [www.alvarosiles.com](https://alvarosiles.com) \
 Bolivia - santa cruz de la sierra
 
-<<<<<<< Updated upstream
 ### INTERVIEW QUESTIONS
 
 1. What is the study level you have acquired? \
@@ -33,8 +30,6 @@ Bolivia - santa cruz de la sierra
 
 3. What is the name of the educational intitution where you studied? \
    [Nur University](https://www.nur.edu)
-
-
 
 4. Are you currently working in a Company? \
    Yes, I'm currently working in a Company as a Software Developer.
@@ -70,6 +65,9 @@ Bolivia - santa cruz de la sierra
    | Debugging                       | Advanced |
    | Code versioning                 | Advanced |
 
+
+
+
 10. What is your knowledge and experience with the following technologies?
     | Technologies      | Level    |
     | ----------------- | -------- |
@@ -79,7 +77,6 @@ Bolivia - santa cruz de la sierra
     | SQL               | Advanced |
     | NPM               | Advanced |
     | Git/GitLab/GitHub | Advanced |
-
 
 11. Have you ever participated in any dev events (workshops, contest, challenges) where have you been able to play a dev role?
 
@@ -171,16 +168,26 @@ Bolivia - santa cruz de la sierra
 - Jira
 - Trello
 
-=======
->>>>>>> Stashed changes
 <p align="center">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/alvarosiles11/alvarosiles11?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/alvarosiles11?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/alvarosiles11/alvarosiles11?style=social">
 </p>
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]() <a href="https://github.com/alvarosiles11/alvarosiles11/network/members"><img src="https://img.shields.io/github/forks/alvarosiles11/alvarosiles11" alt="Forks Badge"/></a> <a href="https://github.com/alvarosiles11/alvarosiles11/pulls"><img src="https://img.shields.io/github/issues-pr/alvarosiles11/alvarosiles11" alt="Pull Requests Badge"/></a> <a href="https://github.com/alvarosiles11/alvarosiles11/issues"><img src="https://img.shields.io/github/issues/alvarosiles11/alvarosiles11" alt="Issues Badge"/></a> <a href="https://github.com/alvarosiles11/alvarosiles11/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/alvarosiles11/alvarosiles11?color=2b9348"></a> ![GitHub last commit](https://img.shields.io/github/last-commit/alvarosiles11/alvarosiles11) ![GitHub All Releases](https://img.shields.io/github/downloads/alvarosiles11/alvarosiles11/total) <a href="https://github.com/alvarosiles11/alvarosiles11/blob/main/LICENSE"><img src="https://img.shields.io/github/license/alvarosiles11/alvarosiles11?color=2b9348" alt="License Badge"/></a>
 
-<!-- ![Image text](https://raw.githubusercontent.com/alvarosiles11/alvarosiles11/output/github-contribution-grid-snake.svg) -->
+![Image text](https://raw.githubusercontent.com/alvarosiles11/alvarosiles11/output/github-contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=alvarosiles11&label=PROFILE+VIEWS)
 
 <img src="https://profile-counter.glitch.me/alvarosiles11/count.svg" />
+
+<!-- El Gerente del Proyecto Es responsable de la planificación del proyecto, de mantener el proyecto dentro del presupuesto, y de la solución de problemas
+El Administrador de sistemas Un administrador de cuentas cultiva la relación con el cliente
+El sistema en que la aplicación  Se arman los servidores, se instala el sistema operativo, un servidor web, PHP, una base de datos y cualquier software adicional que se requiera. Incluso antes de que el proyecto se haya terminado, un administrador del sistema puede tener que construir los entornos de desarrollo y ambientes de prueba. Más adelante en el proyecto, se ocupara de mantener los sistemas operando.
+El Administrador de Código varios de los desarrolladores están trabajando en conjunto, el código que escriben deben integrarse en algún momento
+El Capacitador El Capacitador relaciona las soluciones que se han creado con el usuario final
+QUALITY ASSURANCE (QA) Aunque cuando hablamos de Tester y Quality Assurance (AQ) como lo mismo, uno y otro perfil pueden tener diferencias notables. “Un tester se encarga de encontrar fallos, pero un QA no sólo los encuentra, sino que ayuda a prevenirlos”. Por tanto, un QA se asegura de la calidad del software durante todas sus fases, no sólo en la fase de pruebas como un tester. Podría decirse que es una evolución de éste al que se le han añadido tareas con el fin de asegurar la calidad global del proyecto y del producto o servicio resultante. 
+TESTER Se encargará de asegurar que los requisitos definidos por el arquitecto de software se cumplen en la implementación del producto o servicio realizada por los desarrolladores y/o programadores -->
+
+
+
+
