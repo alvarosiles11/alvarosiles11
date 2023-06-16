@@ -25,8 +25,6 @@ Bolivia - santa cruz de la sierra
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/alvarosiles11/alvarosiles11?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/alvarosiles11?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/alvarosiles11/alvarosiles11?style=social">
 </p>
 
-
-
 [![Status](https://img.shields.io/badge/status-active-success.svg)]() <a href="https://github.com/alvarosiles11/alvarosiles11/network/members"><img src="https://img.shields.io/github/forks/alvarosiles11/alvarosiles11" alt="Forks Badge"/></a> <a href="https://github.com/alvarosiles11/alvarosiles11/pulls"><img src="https://img.shields.io/github/issues-pr/alvarosiles11/alvarosiles11" alt="Pull Requests Badge"/></a> <a href="https://github.com/alvarosiles11/alvarosiles11/issues"><img src="https://img.shields.io/github/issues/alvarosiles11/alvarosiles11" alt="Issues Badge"/></a> <a href="https://github.com/alvarosiles11/alvarosiles11/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/alvarosiles11/alvarosiles11?color=2b9348"></a> ![GitHub last commit](https://img.shields.io/github/last-commit/alvarosiles11/alvarosiles11) ![GitHub All Releases](https://img.shields.io/github/downloads/alvarosiles11/alvarosiles11/total) <a href="https://github.com/alvarosiles11/alvarosiles11/blob/main/LICENSE"><img src="https://img.shields.io/github/license/alvarosiles11/alvarosiles11?color=2b9348" alt="License Badge"/></a>
 
 <!-- ![Image text](https://raw.githubusercontent.com/alvarosiles11/alvarosiles11/output/github-contribution-grid-snake.svg) -->
