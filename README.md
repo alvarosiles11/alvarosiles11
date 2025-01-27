@@ -41,5 +41,5 @@ Bolivia - santa cruz de la sierra
 
 [Visita mi perfil y cuenta de visitas en Replit](https://replit.com/@alvarosiles1/portafolio)
 
-![Visitas](https://komarev.com/ghpvc/?username=alvarosiles11&label=PROFILE+VIEWS)
+![Visitassss]([https://komarev.com/ghpvc/?username=alvarosiles11&label=PROFILE+VIEWS](https://replit.com/@alvarosiles1/portafolio/counter))
 jajaja
