@@ -45,13 +45,18 @@ Bolivia - santa cruz de la sierra
  https://ba3369b6-f588-49f1-9120-a0a5dde98e4a-00-2b1358za4q9z4.janeway.replit.dev/
  
 <img src="https://profile-counter.glitch.me/alvarosiles11/count.svg" />
- final
-![Visitas a mi perfil](https://<tu-servidor>/counter)
-https://eb08a574-1300-4755-98e0-b18083723a28-00-2gza53c9sgxnk.worf.replit.dev/
+ 
+ 
+
+Visitas perfil1 https://eb08a574-1300-4755-98e0-b18083723a28-00-2gza53c9sgxnk.worf.replit.dev/
+
+Visitas perfil2 https://ba3369b6-f588-49f1-9120-a0a5dde98e4a-00-2b1358za4q9z4.janeway.replit.dev/
+
+
 
 # Visitas a mi perfil de GitHub
 
 ![Contador de visitas](https://eb08a574-1300-4755-98e0-b18083723a28-00-2gza53c9sgxnk.worf.replit.dev/counter)
 
-![Contador de visitas](https://ba3369b6-f588-49f1-9120-a0a5dde98e4a-00-2b1358za4q9z4.janeway.replit.dev//counter)
+![Contador de visitas](https://ba3369b6-f588-49f1-9120-a0a5dde98e4a-00-2b1358za4q9z4.janeway.replit.dev/counter)
 
