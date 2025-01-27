@@ -37,6 +37,12 @@ Bolivia - santa cruz de la sierra
 
 ![](https://komarev.com/ghpvc/?username=alvarosiles11&label=PROFILE+VIEWS&base=7000)
 
+![](https://komarev.com/ghpvc/?username=alvarosiles11&label=PROFILE+VIEWS&base=20000&abbreviated=true)
+
+![](https://komarev.com/ghpvc/?username=alvarosiles11&label=PROFILE+VIEWS&base=20000&abbreviated=true&color=green)
+![](https://komarev.com/ghpvc/?username=alvarosiles11&label=PROFILE+VIEWS&base=20000&abbreviated=true&color=dc143c)
+
+ 
  
 <img src="https://profile-counter.glitch.me/alvarosiles11/count.svg" />
  final
