@@ -36,10 +36,10 @@ Bolivia - santa cruz de la sierra
 ![](https://komarev.com/ghpvc/?username=alvarosiles11&label=PROFILE+VIEWS)
 
 <img src="https://profile-counter.glitch.me/alvarosiles11/count.svg" />
+ final
+![Visitas a mi perfil](https://<tu-servidor>/counter)
+https://eb08a574-1300-4755-98e0-b18083723a28-00-2gza53c9sgxnk.worf.replit.dev/
 
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=alvarosiles11.alvarosiles11)
+# Visitas a mi perfil de GitHub
 
-[Visita mi perfil y cuenta de visitas en Replit](https://replit.com/@alvarosiles1/portafolio)
-
-![Visitassss]([https://komarev.com/ghpvc/?username=alvarosiles11&label=PROFILE+VIEWS](https://replit.com/@alvarosiles1/portafolio/counter))
-jajaja
+![Contador de visitas](https://eb08a574-1300-4755-98e0-b18083723a28-00-2gza53c9sgxnk.worf.replit.dev/counter)
