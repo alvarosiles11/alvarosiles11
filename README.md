@@ -42,7 +42,7 @@ Bolivia - santa cruz de la sierra
 ![](https://komarev.com/ghpvc/?username=alvarosiles11&label=PROFILE+VIEWS&base=20000&abbreviated=true&color=green)
 ![](https://komarev.com/ghpvc/?username=alvarosiles11&label=PROFILE+VIEWS&base=20000&abbreviated=true&color=dc143c)
 
- 
+ https://ba3369b6-f588-49f1-9120-a0a5dde98e4a-00-2b1358za4q9z4.janeway.replit.dev/
  
 <img src="https://profile-counter.glitch.me/alvarosiles11/count.svg" />
  final
@@ -51,4 +51,7 @@ https://eb08a574-1300-4755-98e0-b18083723a28-00-2gza53c9sgxnk.worf.replit.dev/
 
 # Visitas a mi perfil de GitHub
 
-![Contador de visitas](https://eb08a574-1300-4755-98e0-b18083723a28-00-2gza53c9sgxnk.worf.replit.dev/counter)
+![Contador de visitas proye 1 ](https://eb08a574-1300-4755-98e0-b18083723a28-00-2gza53c9sgxnk.worf.replit.dev/counter)
+
+![Contador de visitas nro2 ](https://eb08a574-1300-4755-98e0-b18083723a28-00-2gza53c9sgxnk.worf.replit.dev/counter)
+
