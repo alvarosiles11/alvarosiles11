@@ -37,4 +37,5 @@ Bolivia - santa cruz de la sierra
 
 <img src="https://profile-counter.glitch.me/alvarosiles11/count.svg" />
 
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=alvarosiles11.alvarosiles11)
 
